@@ -1,0 +1,12 @@
+{
+  "cloudant_apikey": "REPLACEME.Cloudant-9w.apikey",
+  "cloudant_host": "REPLACEME.Cloudant-9w.host",
+  "cloudant_iam_apikey_description": "REPLACEME.Cloudant-9w.iam_apikey_description",
+  "cloudant_iam_apikey_name": "REPLACEME.Cloudant-9w.iam_apikey_name",
+  "cloudant_iam_role_crn": "REPLACEME.Cloudant-9w.iam_role_crn",
+  "cloudant_iam_serviceid_crn": "REPLACEME.Cloudant-9w.iam_serviceid_crn",
+  "cloudant_password": "REPLACEME.Cloudant-9w.password",
+  "cloudant_port": 443,
+  "cloudant_url": "REPLACEME.Cloudant-9w.url",
+  "cloudant_username": "REPLACEME.Cloudant-9w.username"
+}
